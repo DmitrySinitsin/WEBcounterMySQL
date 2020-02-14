@@ -1,0 +1,13 @@
+.number{
+            text-align: center;
+            font-size: 36px;
+            width: 60px; 
+            padding: 10px;
+            }
+            .button{
+                padding: 10px 30px;
+                font-size: 36px;
+            }
+            iframe{
+            	display: none;
+            }
